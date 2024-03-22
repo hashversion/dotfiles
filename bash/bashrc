@@ -1,0 +1,9 @@
+# Rust Setup
+. "$HOME/.cargo/env"
+
+# Mise Setup
+eval "$(mise activate bash)"
+
+# Starship
+export STARSHIP_CONFIG=~/.config/starship/starship.toml
+eval "$(starship init bash)"
