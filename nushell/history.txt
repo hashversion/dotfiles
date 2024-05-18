@@ -1,2 +1,12 @@
 ls
 exit
+config nu
+clear
+ls
+exit
+clear
+exit
+ls
+ls -a
+clear
+exit
