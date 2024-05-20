@@ -10,3 +10,41 @@ ls
 ls -a
 clear
 exit
+ls
+clear
+ls
+ll
+clear
+ls
+man nu
+clear
+man ls
+whoami
+clear
+cd Developments/
+ls
+clear
+cd
+exit
+ps | where cpu > 0
+exit
+clear
+ls -a
+ls -a | grep kube
+kubectl cluster-info<\n>
+exit
+ls -a
+cd .ghcup/
+ls
+cd hls
+ls
+cd
+clear
+ls
+clear
+exit
+ls
+ls -a | grep aws
+ls -a
+clear
+exit
