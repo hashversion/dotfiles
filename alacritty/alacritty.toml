@@ -30,7 +30,7 @@ style.blinking = "On"
 size = 12
 
 [font.normal]
-family = "JetBrainsMono Nerd Font"
+family = "GeistMono Nerd Font"
 # family = "Geist Mono"
 style = "Regular"
 
