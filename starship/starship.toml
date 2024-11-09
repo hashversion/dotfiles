@@ -1,7 +1,7 @@
 #  hashversion
 
 [username]
-format = " [╭─  Hashversion]($style) in "
+format = " [╭─  Hashversion@Pwned]($style) in "
 show_always = true
 style_root = "#9c6cff"
 style_user = "#a475f9"
